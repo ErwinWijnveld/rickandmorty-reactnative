@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SingleEpisode renders correctly with missing props 1`] = `
+<View>
+  <Text>
+    Test
+  </Text>
+  <Text>
+    2020-01-01
+  </Text>
+</View>
+`;
